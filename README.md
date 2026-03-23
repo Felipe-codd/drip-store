@@ -22,4 +22,4 @@ Este software foi desenvolvido com o suporte e a metodologia da Geração Tech, 
 🌐 Veja o Projeto em Ação
 Para facilitar a visualização sem precisar baixar o código, a aplicação está hospedada na Vercel. Você pode acessar o deploy oficial através do link abaixo:
 
-👉 🔗 Clique aqui para acessar a Drip Store
+👉 🔗 Clique aqui para acessar a Drip Store: https://drip-store-ko4c-jx8wvef3q-felipe-codds-projects.vercel.app/
